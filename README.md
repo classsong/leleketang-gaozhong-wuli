@@ -8,4 +8,4 @@
 
 ## 选择性必修一
 
-  - 4.1 [动量守恒定律](www.bilibili.com/video/BV1ib411a7S4)
+  - 4.1 [动量守恒定律](https://www.bilibili.com/video/BV1ib411a7S4)
